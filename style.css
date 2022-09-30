@@ -56,6 +56,15 @@ p.smol {
 	margin-top: 5%;
 }
 h1.no-top {margin-top: 0%;}
+
+canvas {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+  }
+
 /*
 Nav Buttons
 */
